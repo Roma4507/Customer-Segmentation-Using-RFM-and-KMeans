@@ -93,17 +93,12 @@ Copy
 Edit
 jupyter notebook KYC_Clustering.ipynb
 
-📌 Sample Insights
+📌 Sample Insights:
+
 Some customers frequently place high-volume orders but from limited product categories.
 
 Others purchase small quantities but spend more per unit.
 
-Country-based patterns can distinguish clusters of domestic vs. international buyers.
 
-🔮 Future Work
-Incorporate RFM (Recency, Frequency, Monetary) analysis
 
-Integrate DBSCAN for outlier-aware clustering
-
-Build an interactive dashboard using Streamlit
 
